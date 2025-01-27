@@ -5,7 +5,7 @@
          version="4.0">
     <servlet>
         <servlet-name>first</servlet-name>
-        <servlet-class>org.example.servlet.FirstServlet</servlet-class>
+        <servlet-class>org.example.servlet_study.FirstServlet</servlet-class>
     </servlet>
     <servlet-mapping>
         <servlet-name>first</servlet-name>
@@ -13,7 +13,7 @@
     </servlet-mapping>
     <servlet>
         <servlet-name>sample</servlet-name>
-        <servlet-class>org.example.servlet.SampleServlet</servlet-class>
+        <servlet-class>org.example.servlet_study.SampleServlet</servlet-class>
     </servlet>
     <servlet-mapping>
         <servlet-name>sample</servlet-name>
@@ -21,7 +21,7 @@
     </servlet-mapping>
     <servlet>
         <servlet-name>student</servlet-name>
-        <servlet-class>org.example.servlet.StudentServlet</servlet-class>
+        <servlet-class>org.example.servlet_study.StudentServlet</servlet-class>
     </servlet>
     <servlet-mapping>
         <servlet-name>student</servlet-name>
@@ -29,7 +29,7 @@
     </servlet-mapping>
     <servlet>
         <servlet-name>requestMethod</servlet-name>
-        <servlet-class>org.example.servlet.RequestMethodServlet</servlet-class>
+        <servlet-class>org.example.servlet_study.RequestMethodServlet</servlet-class>
     </servlet>
     <servlet-mapping>
         <servlet-name>requestMethod</servlet-name>
